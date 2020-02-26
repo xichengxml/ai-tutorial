@@ -24,6 +24,6 @@ class Person:
 
 
 p1 = Person("xichengxml")
-p2 = Person("oop")
+p2 = Person("ooop")
 print(p1 + p2)
 print(p1 * 3)
